@@ -22,12 +22,12 @@
 #outside-title {
   color: black;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 20pt;
   text-align: center;
 }
 #outside-pic {
-  width: 150px;
-  height: 150px;
+  width: 260px;
+  height: 180px;
 }
 #outside-help {
   color: black;
